@@ -10,3 +10,6 @@ This restaurant management system helps users keeping track of who booked a tabl
 ## What make the system better?
 - We could add a stock counting system linking with the food ordering system to notify staffs when they need to go get more ingredents.
 - Staffs assignment can keep track if the staff is coming to work today and which tasks are their responsible.
+
+## Inspiration
+This project got inspired from [Top SQL Project Ideas to Work on 2023 with Source Code](https://www.knowledgehut.com/blog/database/sql-projects).
